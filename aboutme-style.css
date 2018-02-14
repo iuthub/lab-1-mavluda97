@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+	font-family: Verdana;
+    color: darksalmon;
+  }
+
+p {
+    font-family: Lucida Handwriting;
+    color:white;
+ }
+ strong{
+
+ 	color: yellow;
+ }
+ ul{
+ 	color: darksalmon;
+ }
+ ol{
+ 	color: darksalmon;
+ }
+ h2{
+color: lightblue;
+
+ }
